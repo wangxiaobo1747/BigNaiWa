@@ -38,7 +38,7 @@
 
 ## 参考的开源项目
 
-本项目的玩法与水果链设计参考了以下开源实现（代码为本仓库原创，未复制其源码）：
+本项目的玩法与水果链设计参考了以下开源实现
 
 - [Ikapricity/daxigua](https://github.com/Ikapricity/daxigua) — 合成大西瓜未修改版本源码，可直接在浏览器运行
 - [CaptainAries/dxg](https://github.com/CaptainAries/dxg)
